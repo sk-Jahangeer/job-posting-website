@@ -1,0 +1,19 @@
+{
+  "name": "job-posting-website",
+  "version": "1.0.0",
+  "description": "It's a platform that connects job seekers and employers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "jahangeer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "mongoose": "^5.13.2"
+  }
+}
